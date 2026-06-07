@@ -12,7 +12,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,mysql,java,html,js,git&theme=light)](https://skillicons.dev)
+
 
 <br/>
 
